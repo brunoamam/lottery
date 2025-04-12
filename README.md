@@ -4,7 +4,7 @@
 ### 1.店铺端
   服务端使用spring boot开发，前端使用uniapp开发，可打包android、H5、ios
   * 整体功能如下（部分截图）
-  * 
+    
     <center class ='img'>
     <img title="XX" src="./shop/1.png" width="18%">
     <img title="XX" src="./shop/2.png" width="18%">
@@ -29,6 +29,7 @@
 ### 2.用户端
 服务端使用spring boot开发，前端使用uniapp开发，可打包android、H5、ios
 * 整体功能如下（部分截图）
+  
   <center class ='img'>
   <img title="XX" src="./user/1.png" width="18%">
   <img title="XX" src="./user/2.png" width="18%">
@@ -46,6 +47,7 @@
 ### 3.管理后台
 服务端使用spring boot开发，前端使用vue开发
 * 整体功能如下（部分截图）
+  
   <center class ='img'>
   <img title="XX" src="./admin/1.png" >
   <img title="XX" src="./admin/2.png" >
