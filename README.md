@@ -45,14 +45,4 @@
   <img title="XX" src="./user/9.png" width="18%">
   <img title="XX" src="./user/11.png" width="18%">
   </center>
-### 3.管理后台
-服务端使用spring boot开发，前端使用vue开发
-* 整体功能如下（部分截图）
-  
-  <center class ='img'>
-  <img title="XX" src="./admin/1.png" >
-  <img title="XX" src="./admin/2.png" >
-  <img title="XX" src="./admin/3.png" >
-  <img title="XX" src="./admin/4.png" >
-  </center>
 
